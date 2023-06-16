@@ -48,4 +48,6 @@ package.json
 /share/
 /src/
 env/
+
 local/
+local_js/
